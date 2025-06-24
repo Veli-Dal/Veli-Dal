@@ -7,7 +7,7 @@
 - 🚀 Building dynamic websites for restaurants & small businesses
 - 📱 Creator of QR-based menu systems with admin panels
 - 🌐 [Live Project](https://orientexpresskebapmenu.com/)
-- 🧰 Tech Stack: HTML, CSS, JavaScript, React, Firebase, Git
+- 🧰 Tech Stack: HTML, CSS, JavaScript, React(basic),SQL-Server,C#,.Net, Git
 
  ## ⚒️ Tech Stack
 
